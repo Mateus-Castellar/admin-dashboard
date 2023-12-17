@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Uma página web desenvolvidas com ferramentas básicas da web com design clean e responsivo, com suporte a tema escuro.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://mateus-castellar.github.io/admin-dashboard/)
 
 ## :memo: Licença
 
